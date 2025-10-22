@@ -18,9 +18,17 @@ If it makes you laugh, mission accomplished ✅
 
 ---
 
-## ⚙️ How to Run It
+────────────────────────────────────────────
+## 📦 HOW TO USE
+────────────────────────────────────────────
 
-You have **two ways** to use the calculator:
+All you need is inside the **Shitty_Ass_Calc.zip** file.
+
+1️⃣ Download the ZIP from this repository.  
+2️⃣ Extract it anywhere on your computer.  
+3️⃣ You’ll find two files inside:
+   - `shitty_calc.py` → the original Python source code  
+   - `shitty_ass_calc.exe` → the ready-to-run executable  
 
 ### 🐍 Option 1 — Run the Python Script  
 If you already have Python installed, just open a terminal (or command prompt) and run:
