@@ -44,6 +44,13 @@ If you don’t have Python installed, don’t worry!
 You can run the calculator directly by double-clicking the shitty_ass_calc.exe file.
 It’s exactly the same as the .py version — just pre-packed for convenience.
 
+#### ⚠️ About the Executable (.exe)
+
+When opening shitty_ass_calc.exe, Windows may show a warning saying the file is “risky” or from an unknown publisher.
+
+✅ Don’t worry — this is normal for self-made programs. The .exe is completely safe and identical to the Python script.
+
+Tip: Click “More info → Run anyway” to start the calculator.
 ---
 
 ### 🧠 Why It Exists
