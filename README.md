@@ -50,7 +50,7 @@ When opening shitty_ass_calc.exe, Windows may show a warning saying the file is 
 
 ✅ Don’t worry — this is normal for self-made programs. The .exe is completely safe and identical to the Python script.
 
-Tip: Click “More info → Run anyway” to start the calculator.
+##### Tip: Click “More info → Run anyway” to start the calculator.
 ---
 
 ### 🧠 Why It Exists
